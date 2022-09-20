@@ -1,0 +1,10 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+a { text-decoration: underline; }
+a:hover, a:visited, a:link, a:active
+{
+	text-decoration: underline;
+}
