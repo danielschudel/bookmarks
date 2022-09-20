@@ -11,6 +11,7 @@
 
 ### Furniture
 
+* [Patio](https://raleigh.craigslist.org/search/research-triangle-park-nc/sss?query=patio+furniture&lat=35.9355&lon=-78.9047&excats=5-2-13-22-2-24-1-23-1-1-1-1-2-3-6-10-1-1-1-2-2-8-1-1-1-1-1-8-1-3-2-1-1-7-1-1-1-1-1-1-1-1-2-1-1-1-1-1-1-1-1-1-1-2-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-2-1&sort=date&search_distance=13&min_price=&max_price=)
 * [MCM: 1](https://raleigh.craigslist.org/search/fua?postal=27707&query=mcm&search_distance=30&sort=date)
 * [MCM: 2](https://raleigh.craigslist.org/search/fua?postal=27707&query=mid-century%20-ikea&search_distance=30&sort=date)
 * [MCM: 3](https://raleigh.craigslist.org/search/fua?postal=27707&query=mid%20century%20modern%20-ikea&search_distance=30&sort=date)
