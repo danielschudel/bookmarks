@@ -10,10 +10,10 @@
 * [stone](https://raleigh.craigslist.org/search/morrisville-nc/sss?query=%28stone+%7C+stones+%7C+rock+%7C+rocks+%7C+boulder+%7C+boulders%29&lat=35.8693&lon=-78.8304&excats=7-13-24-24-1-23-1-1-1-1-2-9-10-2-1-2-2-8-5-4-1-3-1-3-1-1-1-1-7-1-1-1-1-1-1-1-1-1-2-1-1-2-1-1-3-2-2-1-1-2-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-4-1&sort=date&search_distance=20&min_price=&max_price=)
 * [outdoor lamps](https://raleigh.craigslist.org/search/research-triangle-park-nc/sss?query=chandelier+%7C+%22floor+lamp%22&lat=35.93550&lon=-78.90470&excats=73-22-55-19-8&sort=date&search_distance=13&min_price=&max_price=100)
 * [Trailer](https://raleigh.craigslist.org/search/cary-nc/sss?query=trailer+-jetski+-horse+-boat&lat=35.8139&lon=-78.7938&excats=5-15-22-2-24-1-23-1-4-1-9-10-2-5-8-2-1-1-5-1-3-1-3-3-8-1-1-2-4-2-1-1-1-1-1-4-1-1-2-1-2-2-2-1-1-3-1-1-1-3-1-1-1&sort=date&search_distance=25&min_price=&max_price=1250)
-* [Shelves](https://raleigh.craigslist.org/search/research-triangle-park-nc/sss?excats=124-21-1-22-25-1-11-1&lat=35.9281&lon=-78.8687&max_price=&min_price=&query=(storage%20shelf%7Cshelf%7Cshelves%7Cshelving)&search_distance=19&sort=date)
 
 ### Furniture
 
+* [Shelves](https://raleigh.craigslist.org/search/research-triangle-park-nc/sss?query=%28storage+shelf%7Cshelf%7Cshelves%7Cshelving%29&lat=35.9281&lon=-78.8687&excats=124-21-1-3-1-12-6-1-24-1-11-1&sort=date&search_distance=19&min_price=&max_price=)
 * [Patio](https://raleigh.craigslist.org/search/research-triangle-park-nc/sss?query=patio+furniture&lat=35.9355&lon=-78.9047&excats=5-2-13-22-2-24-1-23-1-1-1-1-2-3-6-10-1-1-1-2-2-8-1-1-1-1-1-8-1-3-2-1-1-7-1-1-1-1-1-1-1-1-2-1-1-1-1-1-1-1-1-1-1-2-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-2-1&sort=date&search_distance=13&min_price=&max_price=)
 * [MCM:](https://raleigh.craigslist.org/search/fua?query=%28mcm+%7C+mid-century+%7C+%22mid+century+modern%22%29+-ikea&sort=date&search_distance=30&postal=27707&min_price=&max_price=)
 
