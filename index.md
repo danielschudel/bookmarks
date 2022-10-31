@@ -10,7 +10,7 @@
 * [outdoor lamps](https://raleigh.craigslist.org/search/research-triangle-park-nc/sss?query=%28chandelier+%7C+%22floor+lamp%22%29+-%22antique+bed+and+hutch%22&lat=35.93550&lon=-78.90470&excats=73-22-55-19-8&sort=date&search_distance=13&min_price=&max_price=100)
 * [Fire pit](https://raleigh.craigslist.org/search/durham-nc/sss?query=fire+%28pit+%7C+ring%29+-%28poly+%7C+cord+%7C+chair+%7C+sectional+%7C+propane+%7C+barrel%29&lat=35.9099&lon=-78.9907&excats=44-73-3-41-14-7&sort=date&search_distance=28&min_price=&max_price=)
 * [Dryer](https://raleigh.craigslist.org/search/research-triangle-park-nc/sss?query=dryer&lat=35.9089&lon=-78.8409&search_distance=21&min_price=&max_price=5)
-* [Propane](https://raleigh.craigslist.org/search/research-triangle-park-nc/sss?lat=35.90890&lon=-78.84090&query=propane%20%28tank%7Ctanks%7Ccanister%7Ccanisters%7Ccontainer%7Ccontainers%29&search_distance=21)
+* [Propane](https://raleigh.craigslist.org/search/research-triangle-park-nc/sss?query=propane+%28tank%7Ctanks%7Ccanister%7Ccanisters%7Ccontainer%7Ccontainers%29&lat=35.90890&lon=-78.84090&excats=95-29-21-1-22-9-16-1&search_distance=21&min_price=&max_price=)
 
 ### Furniture
 
