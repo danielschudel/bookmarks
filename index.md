@@ -8,7 +8,7 @@
 * [Gardens](https://raleigh.craigslist.org/search/raleigh-nc/gra?lat=35.8391&lon=-78.7686&query=-chicken%20-chickens%20-dog%20-pet%20-mower%20-kennel%20-tractor%20-mowers%20-goat%20-hens%20-chicks%20-roosters%20-rabbits%20-deere%20-toro&search_distance=25&sort=date)
 * [stone](https://raleigh.craigslist.org/search/apex-nc/sss?query=%28stone+%7C+stones+%7C+rock+%7C+rocks+%7C+boulder+%7C+boulders%29+-%28cabinet%7Cturf%7Cvanity%7Cpuppies%7Cpuppys%7Cdog%29&lat=35.8366&lon=-78.947&excats=5-2-13-24-24-1-4-19-1-1-1-1-1-1-9-10-1-1-1-2-2-8-3-2-4-1-3-1-3-1-1-1-1-7-1-1-1-1-1-1-1-1-1-1-1-1-1-2-1-1-2-1-1-1-2-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-4-1&sort=date&bundleDuplicates=1&search_distance=32&min_price=&max_price=2000)
 * [outdoor lamps](https://raleigh.craigslist.org/search/research-triangle-park-nc/sss?query=%28chandelier+%7C+%22floor+lamp%22%29+-%22antique+bed+and+hutch%22&lat=35.93550&lon=-78.90470&excats=73-22-55-19-8&sort=date&search_distance=13&min_price=&max_price=100)
-* [Propane](https://raleigh.craigslist.org/search/research-triangle-park-nc/sss?sort=date&excats=95-29-21-1-22-9-16-1&lat=35.90890&lon=-78.84090&query=propane%20%28tank%7Ctanks%7Ccanister%7Ccanisters%7Ccontainer%7Ccontainers%29&search_distance=21)
+* [Propane](https://raleigh.craigslist.org/search/research-triangle-park-nc/sss?query=propane+%28tank%7Ctanks%7Ccanister%7Ccanisters%7Ccontainer%7Ccontainers%29&lat=35.90890&lon=-78.84090&excats=20-75-29-17-1-3-1-22-9-13-3-1-11-1&sort=date&search_distance=21&min_price=&max_price=)
 
 ### Furniture
 
