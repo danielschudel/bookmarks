@@ -18,7 +18,7 @@
 
 ### Misc
 
-* [Coffee](https://raleigh.craigslist.org/search/cary-nc/sss?query=%28coffee%7Ckettle%29+-%28table%7Cmug*%7Ckeur*%7Chomebrew%29&lat=35.8139&lon=-78.7938&excats=7-13-22-2-24-1-23-1-1-1-1-2-9-10-1-1-1-2-2-8-1-1-1-1-1-4-1-3-1-5-1-1-7-1-2-1-1-1-1-1-2-1-1-1-1-1-1-1-1-2-2-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-2-1&sort=date&bundleDuplicates=1&search_distance=25&min_price=&max_price=)
+* [Coffee](https://raleigh.craigslist.org/search/cary-nc/sss?query=%28coffee%7Ckettle%29+-%28table%7Cmug*%7Ckeur*%7Chomebrew%7Ccollectible%29&lat=35.8139&lon=-78.7938&excats=7-13-22-2-24-1-23-1-1-1-1-2-9-10-1-1-1-2-2-8-1-1-1-1-1-4-1-3-1-5-1-1-7-1-2-1-1-1-1-1-2-1-1-1-1-1-1-1-1-2-2-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-2-1&sort=date&bundleDuplicates=1&search_distance=25&min_price=&max_price=)
 * [Free Stuff](https://raleigh.craigslist.org/search/durham-nc/zip?lat=35.9637&lon=-78.9299&search_distance=7&sort=date)
 * [Household](https://raleigh.craigslist.org/search/hsa?postal=27707&search_distance=5&sort=date)
 * [General](https://raleigh.craigslist.org/search/foa?postal=27707&search_distance=5&sort=date)
