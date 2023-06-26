@@ -18,7 +18,7 @@
 
 ### Misc
 
-* [Camp](https://raleigh.craigslist.org/search/raleigh-nc/sga?bundleDuplicates=1&lat=35.7719&lon=-78.6389&query=(camp%7Cbackpack%7Chike)%20-(coleman%7Cscope%7Cyeti%7Cozark%7Cfirewood)&search_distance=60#search=1~gallery~0~0)
+* [Camp](https://raleigh.craigslist.org/search/raleigh-nc/sga?bundleDuplicates=1&lat=35.7719&lon=-78.6389&query=(camp%7Cbackpack%7Chike%7Cski)%20-(coleman%7Cscope%7Cyeti%7Cozark%7Cfirewood%7Cwaterfowl%7Cpaddle%7Cgym)&search_distance=60&sort=date#search=1~gallery~0~0)
 * [Coffee](https://raleigh.craigslist.org/search/cary-nc/sss?bundleDuplicates=1&excats=7-13-22-2-24-1-23-1-1-1-1-2-9-10-1-1-1-2-2-8-1-1-1-1-1-4-1-3-1-5-1-1-7-1-2-1-1-1-1-1-2-1-1-1-1-1-1-1-1-2-2-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-2-1&lat=35.8139&lon=-78.7938&query=(coffee%7Ckettle)%20-(table%7Cmug*%7Ckeur*%7Chomebrew%7Ccollectible%7Cvintage%7Cantique%7Ccorning%7Crobot)&search_distance=25&sort=date#search=1~gallery~0~0)
 * [Free Stuff](https://raleigh.craigslist.org/search/durham-nc/zip?lat=35.9637&lon=-78.9299&search_distance=7&sort=date)
 * [Household](https://raleigh.craigslist.org/search/hsa?postal=27707&search_distance=5&sort=date)
