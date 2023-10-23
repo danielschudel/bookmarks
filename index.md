@@ -24,7 +24,7 @@
 
 * [Packs](https://raleigh.craigslist.org/search/raleigh-nc/sga?bundleDuplicates=1&lat=35.7719&lon=-78.6389&query=(camp%7Cbackpack%7Chike%7Cski)%20-(coleman%7Cscope%7Cyeti%7Cozark%7Cfirewood%7Cwaterfowl%7Cpaddle%7Cgym)&search_distance=60&sort=date#search=1~gallery~0~0)
 * [Roaster](https://raleigh.craigslist.org/search/research-triangle-park-nc/sss?bundleDuplicates=1&excats=95-50-1-4-19-8&lat=35.9407&lon=-78.9015&max_price=75&query=roaster&search_distance=28&sort=date#search=1~gallery~0~0)
-* [Coffee](https://raleigh.craigslist.org/search/cary-nc/sss?bundleDuplicates=1&excats=7-13-22-2-24-1-23-1-1-1-1-2-9-10-1-1-1-2-2-8-1-1-1-1-1-4-1-3-1-5-1-1-7-1-2-1-1-1-1-1-2-1-1-1-1-1-1-1-1-2-2-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-2-1&lat=35.8139&lon=-78.7938&query=(coffee%7Ckettle)%20-(table%7Cmug*%7Ckeur*%7Chomebrew%7Ccollectible%7Cvintage%7Cantique%7Ccorning%7Crobot)&search_distance=25&sort=date#search=1~gallery~0~0)
+* [Coffee](https://raleigh.craigslist.org/search/cary-nc/sss?bundleDuplicates=1&excats=7-13-22-2-24-1-23-1-1-1-1-2-9-10-1-1-1-2-2-8-1-1-1-1-1-4-1-3-1-5-1-1-7-1-2-1-1-1-1-1-2-1-1-1-1-1-1-1-1-2-2-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-2-1&lat=35.8139&lon=-78.7938&query=(coffee%7Ckettle%7Cbonavita%7Ctechnivorm%7Cbreville)%20-(table%7Cmug*%7Ckeur*%7Chomebrew%7Ccollectible%7Cvintage%7Cantique%7Ccorning%7Crobot%7Cjuice%7Csous%7Cnespresso%7Ccooker)&search_distance=25&sort=date#search=1~gallery~0~0)
 * [Free Stuff](https://raleigh.craigslist.org/search/durham-nc/zip?lat=35.9637&lon=-78.9299&search_distance=7&sort=date)
 * [Household](https://raleigh.craigslist.org/search/hsa?postal=27707&search_distance=5&sort=date)
 * [General](https://raleigh.craigslist.org/search/foa?postal=27707&search_distance=5&sort=date)
